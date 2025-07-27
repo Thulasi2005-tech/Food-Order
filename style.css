@@ -1,0 +1,21 @@
+*{
+    text-decoration:none;
+}
+.container{
+    display:flex;
+    align-items: center;
+
+}
+.navbar-contain {
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    height:5lvh;
+    background-color: blueviolet;
+}
+ul{
+    list-style-type: none;
+}
+li a{
+    display:block;
+}
